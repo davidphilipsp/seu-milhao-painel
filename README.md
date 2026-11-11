@@ -8,7 +8,7 @@ I designed it and built it with Claude Code as my pair programmer, from August t
 | | |
 |---|---|
 | [`index.html`](index.html) | the live page: 5 apps, 14 modules (click-through), money flow, Claude in the product, how it was built, stack |
-| [`docs/de-para.md`](docs/de-para.md) | de-para: each panel module → screens → front folder → server folder → every API endpoint |
+| [`docs/de-para.md`](docs/de-para.md) | de-para: each panel module → screens → front folder → server folder → API size |
 | Code | [davidphilipsp/bar-do-milhao-platform](https://github.com/davidphilipsp/bar-do-milhao-platform) (sanitized copy of the private repo) |
 
 ## At a glance
